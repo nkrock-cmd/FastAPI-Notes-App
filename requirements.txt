@@ -1,5 +1,6 @@
-
-pip install "fastapi[standard]"
-pip install pymongo
-pip install python-multipart
-pip install --upgrade pip 
+fastapi[standard]
+pymongo
+uvicorn
+requests
+jinja2
+python-dotenv
